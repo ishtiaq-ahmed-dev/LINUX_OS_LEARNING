@@ -62,3 +62,36 @@ Each file represents **a specific Linux concept or practice task**.
 
 ---
 
+📌 Who This Repository Is For
+
+Students learning Operating Systems
+
+Beginners practicing Linux commands
+
+Developers improving terminal efficiency
+
+Anyone preparing for Linux-based interviews
+
+Self-learners exploring system-level concepts
+
+🧩 Notes
+
+Code and scripts are written for learning purposes
+
+Output may vary depending on Linux distribution
+
+Most scripts assume a bash-compatible shell
+
+Tested primarily on Linux-based systems
+
+👨‍💻 Author
+
+Ishtiaq Ahmed
+AI Student • Linux Learner • C++ & System Programming Enthusiast
+
+📜 License
+
+This repository is intended for educational and learning purposes.
+Feel free to explore, fork, and learn.
+
+Happy Learning 🐧
