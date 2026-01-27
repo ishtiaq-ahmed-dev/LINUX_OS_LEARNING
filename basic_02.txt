@@ -1,0 +1,11 @@
+# Step 1: Create a main folder for your project
+mkdir MyLinuxRepo
+
+# Step 2: Go inside that folder
+cd MyLinuxRepo
+
+# Step 3: Create sub-folders for organization
+mkdir scripts documentation data
+
+# Step 4: Create a README file to describe your project
+touch README.md
